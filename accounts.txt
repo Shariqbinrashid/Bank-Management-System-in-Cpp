@@ -1,0 +1,4 @@
+
+Shariq,242431,4500,Current
+Usman,263118,11000,Current
+Danial,249912,19000,Savings
